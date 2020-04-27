@@ -242,3 +242,7 @@ footer {
     transition: all 1s;
 }
 
+.micon{
+    display:none;
+}
+
